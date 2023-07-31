@@ -3,24 +3,39 @@
   "short_name": "Mahesa",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
+      "src": "icon16.png",
+      "sizes": "16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "icon32.png",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "icon64.png",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "icon128.png",
+      "sizes": "128x128",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "icon192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "icon256.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "256x256"
     }
   ],
   "start_url": "/",
   "display": "standalone",
-  "theme_color": "#000000",
+  "theme_color": "#010488",
   "background_color": "#ffffff",
   "lang": "id",
   "scope": "./"
